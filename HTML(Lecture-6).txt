@@ -1,0 +1,165 @@
+<html>
+
+<head>
+    <title>Lecture 6</title>
+</head>
+
+<body>
+    <center>
+        <h1><u>Sutdent Marksheet</u></h1>
+        <table border="5px" cellpadding="10px">
+            <thead>
+                <tr>
+                    <th>Sr.N0.</th>
+                    <th>Student Name</th>
+                    <th>GRID</th>
+                    <th>Maths</th>
+                    <th>Gujarati</th>
+                    <th>English</th>
+                    <th>Hindi</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>Ishita</td>
+                    <td>6703</td>
+                    <td>90</td>
+                    <td>95</td>
+                    <td>85</td>
+                    <td>92</td>
+                </tr>
+
+                <tr>
+                    <td>2</td>
+                    <td>Vraj</td>
+                    <td>6704</td>
+                    <td>96</td>
+                    <td>80</td>
+                    <td>93</td>
+                    <td>90</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>Roohi</td>
+                    <td>6705</td>
+                    <td>80</td>
+                    <td>90</td>
+                    <td>80</td>
+                    <td>70</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Devyani</td>
+                    <td>6706</td>
+                    <td>90</td>
+                    <td>67</td>
+                    <td>90</td>
+                    <td>92</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>Prince</td>
+                    <td>6707</td>
+                    <td>90</td>
+                    <td>66</td>
+                    <td>85</td>
+                    <td>98</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>Kevin</td>
+                    <td>6708</td>
+                    <td>80</td>
+                    <td>70</td>
+                    <td>80</td>
+                    <td>60</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>Jenish</td>
+                    <td>6709</td>
+                    <td>92</td>
+                    <td>75</td>
+                    <td>65</td>
+                    <td>42</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>Hetvi</td>
+                    <td>6710</td>
+                    <td>78</td>
+                    <td>55</td>
+                    <td>45</td>
+                    <td>92</td>
+                </tr>
+                <tr>
+                    <td>9</td>
+                    <td>Sneha</td>
+                    <td>6711</td>
+                    <td>70</td>
+                    <td>65</td>
+                    <td>55</td>
+                    <td>42</td>
+                </tr>
+                <tr>
+                    <td>10</td>
+                    <td>Axita</td>
+                    <td>6712</td>
+                    <td>90</td>
+                    <td>90</td>
+                    <td>80</td>
+                    <td>90</td>
+                </tr>
+                <tr>
+                    <td>11</td>
+                    <td>Meena</td>
+                    <td>6713</td>
+                    <td>40</td>
+                    <td>55</td>
+                    <td>65</td>
+                    <td>72</td>
+                </tr>
+                <tr>
+                    <td>12</td>
+                    <td>Surbhi</td>
+                    <td>6714</td>
+                    <td>90</td>
+                    <td>95</td>
+                    <td>85</td>
+                    <td>92</td>
+                </tr>
+                <tr>
+                    <td>13</td>
+                    <td>Diya</td>
+                    <td>6715</td>
+                    <td>80</td>
+                    <td>78</td>
+                    <td>56</td>
+                    <td>89</td>
+                </tr>
+                <tr>
+                    <td>14</td>
+                    <td>Jay</td>
+                    <td>6716</td>
+                    <td>80</td>
+                    <td>75</td>
+                    <td>65</td>
+                    <td>52</td>
+                </tr>
+                <tr>
+                    <td>15</td>
+                    <td>Harsh</td>
+                    <td>6717</td>
+                    <td>90</td>
+                    <td>95</td>
+                    <td>85</td>
+                    <td>92</td>
+                </tr>
+            </tbody>
+        </table>
+
+    </center>
+</body>
+
+</html>

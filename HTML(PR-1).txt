@@ -1,0 +1,192 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>HOME page</title>
+</head>
+
+<body>
+    <nav>
+        <a href="#">Home</a>&emsp;
+        <a href="/about.html" target="_blank">About</a>&emsp;
+        <a href="/contect.html" target="_blank">Contact</a>&emsp;
+    </nav>
+
+    <h1>Welcome to my website🙋‍♀️</h1>
+    <div>
+        <img src="https://negliadesign.com/wordpress/assets/Website-Development-feature3.001.jpg" alt="image"
+            height="400px" width="600px">
+
+        <p>
+            A website is a collection of many web pages, and web pages are digital files that are written using
+            HTML(HyperText Markup Language). To make your website available to every person in the world, it must be
+            stored
+            or hosted on a computer connected to the Internet round a clock. Such computers are known as a Web Server.
+        </p>
+        <p>
+            The website’s web pages are linked with hyperlinks and hypertext and share a common interface and design.
+            The
+            website might also contain some additional documents and files such as images, videos, or other digital
+            assets.
+
+            With the Internet invading every sphere, we see websites for all kinds of causes and purposes. So, we can
+            also
+            say that a website can also be thought of as a digital environment capable of delivering information and
+            solutions and promoting interaction between people, places, and things to support the goals of the
+            organization
+            it was created for.
+        </p>
+    </div>
+    <hr>
+    <div>
+        <table border="5px" cellpadding="5px">
+            <thead>
+                <tr>
+                    <th colspan="3">Languages</th>
+                </tr>
+                <tr>
+                    <th >NO.</th>
+                    <th>Name</th>
+                    <th>Fees</th>
+                </tr>
+            </thead>
+            <tbody>
+                <tr>
+                    <td>1</td>
+                    <td>HTML</td>
+                    <td>3000</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>C Language</td>
+                    <td>4000</td>
+                </tr>
+                <tr>
+                    <td>3</td>
+                    <td>JavaScript</td>
+                    <td>4000</td>
+                </tr>
+                <tr>
+                    <td>4</td>
+                    <td>Node Js</td>
+                    <td>4000</td>
+                </tr>
+                <tr>
+                    <td>5</td>
+                    <td>React JS_web</td>
+                    <td>5000</td>
+                </tr>
+                <tr>
+                    <td>6</td>
+                    <td>CSS</td>
+                    <td>3000</td>
+                </tr>
+                <tr>
+                    <td>7</td>
+                    <td>BT-JQ_FSD</td>
+                    <td>4000</td>
+                </tr>
+                <tr>
+                    <td>8</td>
+                    <td>Data Base</td>
+                    <td>5000</td>
+                </tr>
+            </tbody>
+        </table>
+    </div>
+    <hr>
+    <div>
+        <video controls loop height="500px" width="500px">
+            <source src="/pexels-cup-of-couple-6177733 (1080p).mp4" type="video/mp4">
+        </video>
+    </div>
+    <hr>
+    <div>
+        <h3>Thanks for watching😊😊</h3>
+        <audio controls loop>
+            <source src="/Thanks for watching.mp3" type="audio/mp3">
+        </audio>
+    </div>
+    <hr>
+</body>
+
+</html>
+
+//About
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About</title>
+</head>
+
+<body>
+    <h1>About my Webpage</h1>
+    <h3>What is Website?</h3>
+    <p>
+        A website is a collection of many web pages, and web pages are digital files that are written using
+        HTML(HyperText Markup Language). To make your website available to every person in the world, it must be stored
+        or hosted on a computer connected to the Internet round a clock. Such computers are known as a Web Server.
+    </p>
+    <h3>How to create a website?</h3>
+    <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/YWA-xbsJrVg?si=pA4quVPW6a_awpZZ"
+        title="YouTube video player" frameborder="0"
+        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
+        allowfullscreen></iframe>
+    <h3>Best Institude for Web Website-Development Course : </h3>
+    <iframe
+        src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3718.99677745099!2d72.81854497526226!3d21.23197638046861!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3be04fd1d8508c75%3A0x992886c7e5f89393!2sRed%20%26%20White%20Multimedia%20Education%20-%20Ved%20Road!5e0!3m2!1sen!2sin!4v1702473564839!5m2!1sen!2sin"
+        width="600" height="450" style="border:0;" allowfullscreen="" loading="lazy"
+        referrerpolicy="no-referrer-when-downgrade"></iframe>
+</body>
+
+</html>
+
+//contact
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact</title>
+</head>
+<body>
+    <h1>Fill The Form</h1>
+    <form >
+        <form>
+            <label for="Name">Name : </label>
+            <input type="text" placeholder="Enter your name" required><br>
+            <label for="email">Email : </label>
+            <input type="email" placeholder="Enter your email" required><br>
+            <label for="">Choose your goal: </label>
+            <input type="radio" name="Developer"><label for="">Developer </label>
+            <input type="radio" name="Developer"><label for="">Designer</label>
+            <input type="radio" name="Developer"><label for="">Manager</label><br>
+            <label for="">Interests: </label>
+            <input type="checkbox"><label for="">Coding</label>
+            <input type="checkbox"><label for="">Design</label>
+            <input type="checkbox"><label for="">Management</label><br>
+            <label for="">Select your gender:</label>
+            <select name="" id="">
+                <option>Male</option>
+                <option>Female</option>
+                <option>Others</option>
+            </select>
+            <br>
+            <label for="Color">Favorite Color:</label>
+            <input type="color"><br>
+            <label for="Age" >Age:</label>
+            <input type="number" min="3" max="50"><br>
+            <label for="file">Profile Picture:</label>
+            <input type="file"><br>
+            <label for="url">Website URL:</label>
+            <input type="url"><br><br>
+            <input type="submit" value="submit">
+        </form>
+    </form>
+</body>
+</html>
